@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CSharkTipsAndTricks_122024/v17
+/.vs/CSharkTipsAndTricks_122024/FileContentIndex
+/AsSpan/bin/Debug/net8.0
+/AsSpan/obj
+/JSONMissingMembers/bin/Debug/net8.0
+/JSONMissingMembers/obj
+/Logic/bin/Debug/net8.0
+/Logic/obj
+/NullForgiver/bin/Debug/net8.0
+/NullForgiver/obj
+/StringChecking/bin/Debug/net8.0
+/StringChecking/obj
+/TheYield/bin/Debug/net8.0
+/TheYield/obj
