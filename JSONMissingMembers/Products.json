@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "Title": "Sugar",
+    "Stock": 100,
+    "Status": 2,
+    "Available": false,
+    "Country": "Spain"
+  }
+]
